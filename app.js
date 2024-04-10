@@ -48,8 +48,8 @@
 //     })
 // }
 
-// getBtn.addEventListener('click', getData);
-// postBtn.addEventListener('click', postData);
+ getBtn.addEventListener('click', getData);
+ postBtn.addEventListener('click', postData);
 
 
 
